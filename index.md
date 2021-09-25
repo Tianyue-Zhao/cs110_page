@@ -12,14 +12,25 @@ As I said, I not so good at programming.
 However, I happily show you how to hello world.
 ```
 #include <iostream>
+using namespace std;
 
 int main()
 {
     cout << "Hello World";
-    return 0
+    return 0;
 }
 ```
 See? Simple.
 
 ### Something about me
 I no like Los Angeles so much, but I much like little Armenia community in Los Angeles.
+
+Why I like little Armenia?
+- Great Atmosphere
+- Items good
+- Items cheap
+- Kebab so good
+- Hear all sorts of languages
+
+As wise man say,
+> If item good and cheap, place good!
