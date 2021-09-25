@@ -7,6 +7,8 @@ Hi, I Tianyue Zhao. I CSE 110 student. Unfortunately I not so good at programmin
 See person in the picture? Is me.
 ![Picture of me](images/Twin Peaks.jpeg)
 
+You want know more about me? [Here you go.](#something-about-me)
+
 ### My programming
 As I said, I not so good at programming.
 However, I happily show you how to hello world.
@@ -44,6 +46,8 @@ What should man do at little Armenia?
 4. buy buy buy
 5. Kebab
 6. Go away
+
+Here [picture](images/Jons Marketplace.jpg) of Jons Marketplace.
 
 As wise man say,
 > If item good and cheap, place good!
