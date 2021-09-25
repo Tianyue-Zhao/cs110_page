@@ -1,7 +1,8 @@
 # CSE 110 Student Tianyue Zhao
 ### Me
 Hi, I Tianyue Zhao. I CSE 110 student. Unfortunately I not so good at programming. 
-** My languages `C++`, `Python`, `Java`. **
+
+**My languages `C++`, `Python`, `Java`.**
 
 See person in the picture? Is me.
 ![Picture of me](images/Twin Peaks.jpeg)
