@@ -20,6 +20,11 @@ int main()
     return 0;
 }
 ```
+- [x] Include iostream
+- [x] Declare namespace being used
+- [x] Declare main function
+- [x] cout to output statement
+- [x] return 0 for successful run
 See? Simple.
 
 ### Something about me
