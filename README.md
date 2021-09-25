@@ -1,2 +1,2 @@
 # cs110_page
-Github Page, CSE 110
+Tianyue's User Page
