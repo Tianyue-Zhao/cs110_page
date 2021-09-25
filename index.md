@@ -32,5 +32,15 @@ Why I like little Armenia?
 - Kebab so good
 - Hear all sorts of languages
 
+What should man do at little Armenia?
+1. Kebab
+2. Walk around community
+3. Go to Jons marketplace
+4. buy buy buy
+5. Kebab
+6. Go away
+
 As wise man say,
 > If item good and cheap, place good!
+
+Want learn more about little Armenia? Learn all about [little Armenia!](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhw-2nvJnzAhXQpJ4KHXrOCRAQFnoECAkQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLittle_Armenia%2C_Los_Angeles&usg=AOvVaw0f5daitdHbWuPp2BBkeU_L)
