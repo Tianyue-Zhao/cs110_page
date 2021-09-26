@@ -27,6 +27,7 @@ int main()
 - [x] Declare main function
 - [x] cout to output statement
 - [x] return 0 for successful run
+
 See? Simple.
 
 ### Something about me
